@@ -21,4 +21,5 @@ elif ingreso_mensual > 200:
     print("estas bien en venezuela")
     
 else: 
+
     print("sos pobre")
